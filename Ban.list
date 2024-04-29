@@ -13,3 +13,5 @@ host-keyword, amazonaws.com, 𝑷𝒓𝒐𝒙𝒚
 ip-cidr, 52.68.117.1/32, 𝑷𝒓𝒐𝒙𝒚
 host-suffix, bnbstatic.com, 𝑷𝒓𝒐𝒙𝒚
 host, www.binancecnt.com, 𝑷𝒓𝒐𝒙𝒚
+host-suffix, binance.com, 𝑷𝒓𝒐𝒙𝒚
+
