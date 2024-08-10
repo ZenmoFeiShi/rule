@@ -62,3 +62,4 @@ ip-cidr, 180.97.42.43/32, reject
 ip-cidr, 116.31.98.110/32, reject
 ip-cidr, 101.226.152.67/32, reject
 ip-cidr, 163.177.58.149/32, reject
+ip-cidr, 101.35.212.35/32, reject
