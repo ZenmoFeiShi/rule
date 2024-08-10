@@ -41,3 +41,13 @@ IP-CIDR, 101.226.152.31/32 ,REJECT
 IP-CIDR, 49.235.102.235/32 ,reject
 IP-CIDR, 114.110.97.97/32 ,reject
 IP-CIDR, 49.235.102.145/32 ,reject
+ip-cidr, 49.235.102.145/32, reject
+ip-cidr, 212.129.220.107/32, reject
+ip-cidr, 212.129.220.114/32, reject
+ip-cidr, 212.129.220.121/32, reject
+ip-cidr, 49.235.102.100/32, reject
+ip-cidr, 212.129.220.100/32, reject
+ip-cidr, 49.235.102.235/32, reject
+ip-cidr, 140.206.232.16/32, reject
+ip-cidr, 121.5.84.85/32, reject
+ip-cidr, 140.206.232.18/32, reject
