@@ -57,3 +57,4 @@ ip-cidr, 117.185.242.150/32, reject
 ip-cidr, 36.152.46.13/32, reject
 ip-cidr, 36.152.46.15/32, reject
 ip-cidr, 49.235.102.100/32, reject
+ip-cidr, 补一个49.235.102.235/32, reject
