@@ -44,7 +44,6 @@ ip-cidr, 140.206.232.16/32, reject
 ip-cidr, 121.5.84.85/32, reject
 ip-cidr, 140.206.232.18/32, reject
 ip-cidr, 117.185.244.25/32, reject
-host, apm-a.pinduoduo.com, reject
 host, apm.pinduoduo.com, reject
 host, m.pinduoduo.net, reject
 host, ta-a.pinduoduo.com, reject
